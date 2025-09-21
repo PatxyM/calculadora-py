@@ -1,6 +1,6 @@
 
 # Una función puede tomar parámetros como a y b
-
+#este es el cambio hecho 
 def add(a, b):
     # Suma los dos números recibidos como parámetros y devuelve el resultado
     return a + b
